@@ -1,5 +1,5 @@
 # core-code-bootcamp-backlog
 
-![Core-Code-Logo-Editado](https://user-images.githubusercontent.com/40069878/148990873-582c9d2d-1a17-4355-a3eb-c9ad74d18861.png)
+![Core-Code-Logo-Editado](https://user-images.githubusercontent.com/40069878/148991261-6cc704fc-dd51-45fa-818b-b13aa87a0be5.png)
 
 Core Code BootCamp Backlog for track the development
