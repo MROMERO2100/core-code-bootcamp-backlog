@@ -34,7 +34,7 @@ Core Code BootCamp Backlog for track the development
 </code></pre>
 <hr>  
 <li>Read about flowcharts <a href="https://www.lucidchart.com/pages/es/que-es-un-diagrama-de-flujo" rel="nofollow">here</a> <span>&#10003; Done</span></li>
-<li>Answer to the question: Why are flowcharts important to us as developers?</li>
+<li>Answer to the question: Why are flowcharts important to us as developers? <span>&#10003; Done</span></li>
   <ul>
     <li><span><strong>Answer:</strong></span> Because flow charts help programmers develop the most efficient coding because they can clearly see where the data is going to end up. Flow charts help programmers figure out where a potential problem area is and helps them with debugging or cleaning up code that is not working.</li> 
   </ul>  
