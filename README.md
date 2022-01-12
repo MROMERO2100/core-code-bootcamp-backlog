@@ -17,7 +17,22 @@ Core Code BootCamp Backlog for track the development
   <ul>
     <li><span><strong>Answer:</strong></span> I think that writing pseudocode before coding is certainly better than just coding without planning, but it's far from being a best practice. Test-driven development is an improvement.</li> 
   </ul>  
-<li>Create a pseudocode to calculate the aproximated age of a user base on the year they born, (you can define a variable with the actual year if you need it, like for example i could define Y <-- 2022)</li>
+<li>Create a pseudocode to calculate the aproximated age of a user base on the year they born, (you can define a variable with the actual year if you need it, like for example i could define Y <-- 2022) <span>&#10003; Done</span></li>
+  <ul><li><span><strong>Answer:</strong></span></li></ul>
+  <hr>
+<pre><code>
+  function calculateAge(yearborn)
+    yearActural=2022
+    if yearborn = yearActural then
+        return 0
+    else
+        return yearActural -yearborn
+    end if
+  end function
+  input yearborn
+  output "You Born in :"+str(yearborn)+ ", And Your Age Is: ", calculateAge(yearborn)
+</code></pre>
+<hr>  
 <li>Read about flowcharts <a href="https://www.lucidchart.com/pages/es/que-es-un-diagrama-de-flujo" rel="nofollow">here</a> <span>&#10003; Done</span></li>
 <li>Answer to the question: Why are flowcharts important to us as developers?</li>
   <ul>
