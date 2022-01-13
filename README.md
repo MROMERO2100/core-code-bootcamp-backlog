@@ -27,7 +27,7 @@ Core Code BootCamp Backlog for track the development
 
 <div id="div-week-1">
   <h1 id="week1"><strong>Week 1 : Introduction to programming & Javascript</strong></h1>
-  <div id="weekChallenges-week-1">
+  <div id="weekChallenges-week-1-Tuesday">
     <h3 id="weekchanllengeTuesday-11-01-2022">Week 1 - Week challenges (Tuesday 11-January-2022)</h3>
     <ol>
     <li>Watch <a href="https://www.youtube.com/watch?v=JNMy969SjyU" rel="nofollow">this</a> video about compilation and interpretation <span>&#10003; Done</span></li> 
@@ -65,5 +65,5 @@ Core Code BootCamp Backlog for track the development
       </ul>  
     <li>Search about High-level languages and Low-level languages, you can start with <a href="https://www.youtube.com/watch?v=1vRPOp5p-qs" rel="nofollow">this</a> video. <span>&#10003; Done</span></li>
     <ol>
-  </div>  
-</div>
+  </div>
+</div>//FIN DE DIV WEEK-1
