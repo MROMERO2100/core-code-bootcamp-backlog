@@ -75,6 +75,12 @@ Core Code BootCamp Backlog for track the development
   
   [FIN DE DIV WEEK 1 - Wednesday 12-JANUARY-2022]: # 
   
+    <div id="weekChallenges-week-1-Thursday">
+    <h3 id="weekchanllengeThursday-13-01-2022">Week 1 - Week challenges (Thursday 13-January-2022)</h3>
+  </div>  
+  
+  [FIN DE DIV WEEK 1 - Thursday 12-JANUARY-2022]: # 
+  
 </div>
 
 [FIN DE DIV WEEK 1]: # 
