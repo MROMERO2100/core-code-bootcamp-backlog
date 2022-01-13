@@ -66,6 +66,12 @@ Core Code BootCamp Backlog for track the development
     <li>Search about High-level languages and Low-level languages, you can start with <a href="https://www.youtube.com/watch?v=1vRPOp5p-qs" rel="nofollow">this</a> video. <span>&#10003; Done</span></li>
     <ol>
   </div>
+  
+  [FIN DE DIV WEEK 1 - Tuesday 11-JANUARY-2022]: # 
+  
 </div>
+
 [FIN DE DIV WEEK 1]: # 
+
+
 
