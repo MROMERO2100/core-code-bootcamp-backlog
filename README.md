@@ -29,6 +29,7 @@ Core Code BootCamp Backlog for track the development
   <h1 id="week1"><strong>Week 1 : Introduction to programming & Javascript</strong></h1>
   <div id="weekChallenges-week-1-Tuesday">
     <h3 id="weekchanllengeTuesday-11-01-2022">Week 1 - Week challenges (Tuesday 11-January-2022)</h3>
+    <hr>
     <ol>
     <li>Watch <a href="https://www.youtube.com/watch?v=JNMy969SjyU" rel="nofollow">this</a> video about compilation and interpretation <span>&#10003; Done</span></li> 
     <li>Search and answer the question: Java language is compiled or interpreted? <span>&#10003; Done</span></li>
@@ -44,7 +45,6 @@ Core Code BootCamp Backlog for track the development
       </ul>  
     <li>Create a pseudocode to calculate the aproximated age of a user base on the year they born, (you can define a variable with the actual year if you need it, like for example i could define Y <-- 2022) <span>&#10003; Done</span></li>
       <ul><li><span><strong>Answer:</strong></span></li></ul>
-      <hr>
     <pre><code>
       function calculateAge(yearborn)
         yearActural=2022
@@ -57,7 +57,6 @@ Core Code BootCamp Backlog for track the development
       input yearborn
       output "You Born in :"+str(yearborn)+ ", And Your Age Is: ", calculateAge(yearborn)
     </code></pre>
-    <hr>  
     <li>Read about flowcharts <a href="https://www.lucidchart.com/pages/es/que-es-un-diagrama-de-flujo" rel="nofollow">here</a> <span>&#10003; Done</span></li>
     <li>Answer to the question: Why are flowcharts important to us as developers? <span>&#10003; Done</span></li>
       <ul>
@@ -102,8 +101,10 @@ Core Code BootCamp Backlog for track the development
   [FIN DE DIV WEEK 1 - Thursday 12-JANUARY-2022]: #
   
 </div>
+<hr>
 
 [FIN DE DIV WEEK 1]: # 
+
 
 
 
