@@ -71,12 +71,32 @@ Core Code BootCamp Backlog for track the development
   
   <div id="weekChallenges-week-1-Wednesday">
     <h3 id="weekchanllengeWednesday-12-01-2022">Week 1 - Week challenges (Wednesday 12-January-2022)</h3>
+    <hr>
+    <ol dir="auto">
+      <li>Learn about binary, decimal and hexadecimal numbers</li>
+      <li>Translate the year you where born to binary, decimal and hexadecimal</li>
+      <li>Translate 51966 into hexadecimal and binary</li>
+      <li>Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow <a href="/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week1/resources/MIPS.md">this</a> guide. We recomend to check the guide first but also <a href="https://courses.cs.vt.edu/cs2506/Fall2014/Notes/L04.MIPSAssemblyOverview.pdf" rel="nofollow">this</a> presentation could be helpful.</li>
+      <li>Base on the examples and the guide of the low-level language:
+        <ul>
+            <li>5.1 Create a program to add two numbers given by the user. </li>
+            <li>5.2 Create a program that display your name. </li>
+        </ul>
+      </li>
+    </ol>    
   </div>  
   
   [FIN DE DIV WEEK 1 - Wednesday 12-JANUARY-2022]: # 
   
   <div id="weekChallenges-week-1-Thursday">
     <h3 id="weekchanllengeThursday-13-01-2022">Week 1 - Week challenges (Thursday 13-January-2022)</h3>
+    <hr>
+    <ol dir="auto">
+      <li>Search for real word applications of Javascript</li>
+      <li>(optional but great) Watch <a href="https://www.youtube.com/watch?v=LW6vQNE2jgc&amp;t=1962s" rel="nofollow">this</a> video</li>
+      <li>(optional but great) Watch <a href="https://www.youtube.com/watch?v=KXkQJBASUOg" rel="nofollow">this</a> video</li>
+      <li>Follow the github course, you can find it <a href="/corecodeio/bootcamp-from-scratch/blob/main/src/recommended">here</a></li>
+    </ol>    
   </div>
   
   [FIN DE DIV WEEK 1 - Thursday 12-JANUARY-2022]: #
