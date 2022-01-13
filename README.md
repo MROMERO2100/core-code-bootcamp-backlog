@@ -8,8 +8,8 @@ Core Code BootCamp Backlog for track the development
   <li><a href="#week1" title="Goto Week 1">Week 1 : Introduction to programming & Javascript</a></li>
     <ul>
       <li><a href="#weekchanllengeTuesday-11-01-2022" title="Goto Week 1 - Challenge Tuesday">Week 1 - Challenges (Tuesday 11-January-2022)</a></li>
-      <li><a href="#weekchanllengeWednesday-12-01-2022" title="Goto Week 1 - Challenge Tuesday">Week 1 - Challenges (Wednesday 12-January-2022)</a></li>
-      <li><a href="#weekchanllengeThursday-13-01-2022" title="Goto Week 1 - Challenge Tuesday">Week 1 - Challenges (Thursday 13-January-2022)</a></li>
+      <li><a href="#weekchanllengeWednesday-12-01-2022" title="Goto Week 1 - Challenge Wednesday">Week 1 - Challenges (Wednesday 12-January-2022)</a></li>
+      <li><a href="#weekchanllengeThursday-13-01-2022" title="Goto Week 1 - Challenge Thursday">Week 1 - Challenges (Thursday 13-January-2022)</a></li>
     </ul>
 </ol>
 <li><a href="#week2" title="Goto Week 2">Week 2 : Javascript</a></li>
@@ -75,11 +75,11 @@ Core Code BootCamp Backlog for track the development
   
   [FIN DE DIV WEEK 1 - Wednesday 12-JANUARY-2022]: # 
   
-    <div id="weekChallenges-week-1-Thursday">
+  <div id="weekChallenges-week-1-Thursday">
     <h3 id="weekchanllengeThursday-13-01-2022">Week 1 - Week challenges (Thursday 13-January-2022)</h3>
-  </div>  
+  </div>
   
-  [FIN DE DIV WEEK 1 - Thursday 12-JANUARY-2022]: # 
+  [FIN DE DIV WEEK 1 - Thursday 12-JANUARY-2022]: #
   
 </div>
 
