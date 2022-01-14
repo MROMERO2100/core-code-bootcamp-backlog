@@ -75,7 +75,14 @@ Core Code BootCamp Backlog for track the development
     <hr>
     <ol dir="auto">
       <li>Learn about binary, decimal and hexadecimal numbers</li>
+          <span><strong>A Binary Number </strong></span><p>is a number expressed in the base-2 numeral system or binary numeral system, a method of mathematical expression which uses only two symbols: typically "0" (zero) and "1" (one).</p>
+      <span><strong>A Decimal Number </strong></span><p>can be defined as a number whose whole number part and the fractional part is separated by a decimal point. The dot in a decimal number is called a decimal point. The digits following the decimal point show a value smaller than one. </p>   
+      <span><strong>A Hexadecimal Number </strong></span><p>The word hexadecimal can be divided into 'Hexa' and 'deci', where 'Hexa' means 6 and 'deci' means 10. The hexadecimal number system is described as a 16 digit number representation of numbers from 0 - 9 and digits from A - F. In other words, the first 9 numbers or digits are represented as numbers while the next 6 digits are represented as symbols from A - F. Hexadecimal is very similar to the decimal number system that has a base number of 9. Therefore, after 9 digits, the 10th digit is represented as a symbol - 10 as A, 11 as B, 12 as C, 13 as D, 14 as E, and 15 as F. Hence, the 16 digits are 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F. For example: 7B316, 6F16,4B2A16 are hexadecimal numbers.</p>   
       <li>Translate the year you where born to binary, decimal and hexadecimal</li>
+          <span><strong>HEX: 7C8</strong></span>
+          <span><strong>DEC: 1992</strong></span>
+          <span><strong>OCT: 3710</strong></span>
+          <span><strong>BIN: 011111001000</strong></span>
       <li>Translate 51966 into hexadecimal and binary</li>
       <li>Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow <a href="/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week1/resources/MIPS.md">this</a> guide. We recomend to check the guide first but also <a href="https://courses.cs.vt.edu/cs2506/Fall2014/Notes/L04.MIPSAssemblyOverview.pdf" rel="nofollow">this</a> presentation could be helpful.</li>
       <li>Base on the examples and the guide of the low-level language:
