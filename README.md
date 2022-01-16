@@ -96,7 +96,7 @@ Core Code BootCamp Backlog for track the development
       <li>Base on the examples and the guide of the low-level language:</li>
         <ul>
 		<li>5.1 Create a program to add two numbers given by the user. <span>&#10003; Done</span></li>
-		![image](https://user-images.githubusercontent.com/40069878/149668446-eaf7fb58-3e5d-44b4-a901-fc687971dd77.png)
+		https://user-images.githubusercontent.com/40069878/149668446-eaf7fb58-3e5d-44b4-a901-fc687971dd77.png
 		<li>5.2 Create a program that display your name. <span>&#10003; Done</span> </li>
         </ul>
     </ol>    
