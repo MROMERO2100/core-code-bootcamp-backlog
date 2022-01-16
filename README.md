@@ -97,41 +97,7 @@ Core Code BootCamp Backlog for track the development
         <ul>
             <li>5.1 Create a program to add two numbers given by the user. <span>&#10003; Done</span> </li>
     <pre><code>
-.data
-	number1: .asciiz "\nIngrese el primer numero: "
-	number2: .asciiz "\nIngrese el segundo numero: "
-	result_message: .asciiz "\nEl resultado es: "
-.text
-	main:
-		
-		li $v0, 4
-		la $a0, number1
-		syscall
-		
-		
-		li $v0, 5
-		syscall
 
-		move $t0, $v0
-
-		li $v0, 4
-		la $a0, number2
-		syscall
-
-		li $v0, 5
-		syscall
-		
-		li $t1, 50
-
-		add $t2, $v0, $t0
-
-		li $v0, 4
-		la $a0 result_message
-		syscall
-
-		li $v0, 1
-		move $a0, $t2
-		syscall
     </code></pre>   
 	<li>5.2 Create a program that display your name. </li>
         </ul>
