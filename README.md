@@ -111,16 +111,16 @@ Core Code BootCamp Backlog for track the development
     <h3 id="weekchanllengeThursday-13-01-2022">Week 1 - Week challenges (Thursday 13-January-2022)</h3>
     <hr>
     <ol dir="auto">
-      <li>Search for real word applications of Javascript</li>
+      <li>Search for real word applications of Javascript <span>&#10003; Done</span></li>
 		<ul>
 			<li>Web Applications</li>
 			<li>Server Applications</li>
 			<li>Mobile Applications</li>
 			<li>Video-Games</li>
 		</ul>
-      <li>(optional but great) Watch <a href="https://www.youtube.com/watch?v=LW6vQNE2jgc&amp;t=1962s" rel="nofollow">this</a> video</li>
-      <li>(optional but great) Watch <a href="https://www.youtube.com/watch?v=KXkQJBASUOg" rel="nofollow">this</a> video</li>
-      <li>Follow the github course, you can find it <a href="/corecodeio/bootcamp-from-scratch/blob/main/src/recommended">here</a></li>
+      <li>(optional but great) Watch <a href="https://www.youtube.com/watch?v=LW6vQNE2jgc&amp;t=1962s" rel="nofollow">this</a> video <span>&#10003; Done</span></li>
+      <li>(optional but great) Watch <a href="https://www.youtube.com/watch?v=KXkQJBASUOg" rel="nofollow">this</a> video <span>&#10003; Done</span></li>
+      <li>Follow the github course, you can find it <a href="/corecodeio/bootcamp-from-scratch/blob/main/src/recommended">here</a> <span>&#10003; Done</span></li>
     </ol>    
   </div>
   
