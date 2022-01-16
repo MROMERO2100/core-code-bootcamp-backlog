@@ -95,7 +95,20 @@ Core Code BootCamp Backlog for track the development
       <li>Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow <a href="/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week1/resources/MIPS.md">this</a> guide. We recomend to check the guide first but also <a href="https://courses.cs.vt.edu/cs2506/Fall2014/Notes/L04.MIPSAssemblyOverview.pdf" rel="nofollow">this</a> presentation could be helpful.</li>
       <li>Base on the examples and the guide of the low-level language:
         <ul>
-            <li>5.1 Create a program to add two numbers given by the user. </li>
+            <li>5.1 Create a program to add two numbers given by the user. <span>&#10003; Done</span></li>
+      <ul><li><span><strong>Answer:</strong></span></li></ul>
+    <pre><code>
+      function calculateAge(yearborn)
+        yearActural=2022
+        if yearborn = yearActural then
+            return 0
+        else
+            return yearActural -yearborn
+        end if
+      end function
+      input yearborn
+      output "You Born in :"+str(yearborn)+ ", And Your Age Is: ", calculateAge(yearborn)
+    </code></pre>          
             <li>5.2 Create a program that display your name. </li>
         </ul>
       </li>
