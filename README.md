@@ -100,6 +100,7 @@ Core Code BootCamp Backlog for track the development
 		</li>
 		<li>5.2 Create a program that display your name. <span>&#10003; Done</span> </li>
 		<img src="https://user-images.githubusercontent.com/40069878/149668785-8137e560-c1f6-4c07-a391-618623ef5f0a.png" alt="Program that display your name">
+		<img src="https://user-images.githubusercontent.com/40069878/149668821-c367892f-5b0c-4b8b-868b-7492485daca6.png" alt="Result of program that display your name">
         </ul>
     </ol>    
   </div>  
