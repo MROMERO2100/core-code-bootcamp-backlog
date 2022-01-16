@@ -95,45 +95,8 @@ Core Code BootCamp Backlog for track the development
       <li>Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow <a href="/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week1/resources/MIPS.md">this</a> guide. We recomend to check the guide first but also <a href="https://courses.cs.vt.edu/cs2506/Fall2014/Notes/L04.MIPSAssemblyOverview.pdf" rel="nofollow">this</a> presentation could be helpful.</li>
       <li>Base on the examples and the guide of the low-level language:</li>
         <ul>
-            <li>5.1 Create a program to add two numbers given by the user. <span>&#10003; Done</span>
-    <pre><code>
-.data
-	number1: .asciiz "\nIngrese el primer numero: "
-	number2: .asciiz "\nIngrese el segundo numero: "
-	result_message: .asciiz "\nEl resultado es: "
-.text
-	main:
-		
-		li $v0, 4
-		la $a0, number1
-		syscall
-		
-		
-		li $v0, 5
-		syscall
-
-		move $t0, $v0
-
-		li $v0, 4
-		la $a0, number2
-		syscall
-
-		li $v0, 5
-		syscall
-		
-		li $t1, 50
-
-		add $t2, $v0, $t0
-
-		li $v0, 4
-		la $a0 result_message
-		syscall
-
-		li $v0, 1
-		move $a0, $t2
-		syscall
-    </code></pre></li>
-	<li>5.2 Create a program that display your name. </li>
+            <li>5.1 Create a program to add two numbers given by the user. <span>&#10003; Done</span></li>
+		<li>5.2 Create a program that display your name. </li>
         </ul>
     </ol>    
   </div>  
