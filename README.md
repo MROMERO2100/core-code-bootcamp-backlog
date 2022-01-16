@@ -99,6 +99,7 @@ Core Code BootCamp Backlog for track the development
 		<img src="https://user-images.githubusercontent.com/40069878/149668554-e4ba5b5e-d08d-4f68-962a-057d91b2fe1c.png" alt="Add Two number given by the user.">
 		</li>
 		<li>5.2 Create a program that display your name. <span>&#10003; Done</span> </li>
+		<img src="https://user-images.githubusercontent.com/40069878/149668785-8137e560-c1f6-4c07-a391-618623ef5f0a.png" alt="Program that display your name">
         </ul>
     </ol>    
   </div>  
