@@ -96,7 +96,6 @@ Core Code BootCamp Backlog for track the development
       <li>Base on the examples and the guide of the low-level language:</li>
         <ul>
 		<li>5.1 Create a program to add two numbers given by the user. <span>&#10003; Done</span></li>
-			<ul><li><span><strong>Answer:</strong></span></li></ul>
 			    <div>
 				    <pre><code>
 			      .data
