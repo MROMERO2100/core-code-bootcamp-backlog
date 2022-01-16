@@ -97,7 +97,8 @@ Core Code BootCamp Backlog for track the development
         <ul>
 		<li>5.1 Create a program to add two numbers given by the user. <span>&#10003; Done</span></li>
 			<ul><li><span><strong>Answer:</strong></span></li></ul>
-			    <code>
+			    <div>
+				    <pre><code>
 			      .data
 					number1: .asciiz "\nIngrese el primer numero: "
 					number2: .asciiz "\nIngrese el segundo numero: "
@@ -132,7 +133,7 @@ Core Code BootCamp Backlog for track the development
 					li $v0, 1
 					move $a0, $t2
 					syscall
-			    </code>
+			    </code></pre></div>
 		<li>5.2 Create a program that display your name. </li>
         </ul>
     </ol>    
