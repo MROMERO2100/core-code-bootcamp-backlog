@@ -41,19 +41,28 @@
 
 ## Week challenges (Monday) 💻
 
-1. Follow the github course, you can find it [here](./../../../recommended)
-2. Watch [this](https://www.youtube.com/watch?v=A37-3lflh8I) video
-3. Read [this](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
-4. Create an account in [Codewars](https://www.codewars.com/dashboard)
+1. Follow the github course, you can find it [here](./../../../recommended). <span>&#10003; Done</span>
+2. Watch [this](https://www.youtube.com/watch?v=A37-3lflh8I) video. <span>&#10003; Done</span>
+3. Read [this](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math). <span>&#10003; Done</span>
+4. Create an account in [Codewars](https://www.codewars.com/dashboard). <span>&#10003; Done</span>
 
 ## Week challenges (Tuesday) 💻
 
-0. Watch [this](https://www.youtube.com/watch?v=cEBkvm0-rg0) video
-1. https://www.codewars.com/kata/50654ddff44f800200000004
-2. https://www.codewars.com/kata/572b6b2772a38bc1e700007a
-3. https://www.codewars.com/kata/55ad04714f0b468e8200001c
-4. https://www.codewars.com/kata/551f37452ff852b7bd000139
-5. https://www.codewars.com/kata/5ad0d8356165e63c140014d4
+0. Watch [this](https://www.youtube.com/watch?v=cEBkvm0-rg0) video. <span>&#10003; Done</span>
+1. https://www.codewars.com/kata/50654ddff44f800200000004 <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151823018-5c5e52f3-47c4-4ab7-bd5c-54cd7b93ec44.png" alt="Kata 1."/>
+
+2. https://www.codewars.com/kata/572b6b2772a38bc1e700007a <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151823710-3dcb6e39-1e73-44f4-b43b-6003924f15db.png" alt="Kata 2."/>
+
+3. https://www.codewars.com/kata/55ad04714f0b468e8200001c <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151823786-8d2f30f0-09a4-49ce-8ab3-8b940ee3457c.png" alt="Kata 3."/>
+
+4. https://www.codewars.com/kata/551f37452ff852b7bd000139 <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151823913-e0a9509c-6f23-4392-9d47-8dc7bf2c65bb.png" alt="Kata 4."/>
+
+5. https://www.codewars.com/kata/5ad0d8356165e63c140014d4 <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151824248-d0d1dac8-5401-4c20-819f-c8993df5e15b.png" alt="Kata 5."/>
 
 ## Week challenges (Wednesday) 💻
 
