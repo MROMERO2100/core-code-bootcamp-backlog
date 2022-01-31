@@ -66,18 +66,34 @@
 
 ## Week challenges (Wednesday) 💻
 
-1. https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
-2. https://www.codewars.com/kata/5b853229cfde412a470000d0
-3. https://www.codewars.com/kata/5f77d62851f6bc0033616bd8
-4. https://www.codewars.com/kata/57eae65a4321032ce000002d
+1. https://www.codewars.com/kata/57e92e91b63b6cbac20001e5 <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151826906-0f187f50-de1f-412e-85de-95e3a1eec822.png" alt="Kata 6."/>
+
+2. https://www.codewars.com/kata/5b853229cfde412a470000d0 <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151827116-b685156e-98ec-476d-8a81-6e62ce187526.png" alt="Kata 7."/>
+
+3. https://www.codewars.com/kata/5f77d62851f6bc0033616bd8 <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151827308-e1d457d8-0101-4893-b9c0-dfff0f119c3f.png" alt="Kata 8."/>
+
+4. https://www.codewars.com/kata/57eae65a4321032ce000002d <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151827415-5ab89d6b-8614-476d-a869-7447db9e0651.png" alt="Kata 9."/>
 
 ## Week challenges (Thursday) 💻
 
-1. https://www.codewars.com/kata/57faece99610ced690000165
-2. https://www.codewars.com/kata/5547929140907378f9000039
-3. https://www.codewars.com/kata/5672a98bdbdd995fad00000f
-4. https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
-5. ✨Complete your 1st [**Core Challenge**](https://corecode.notion.site/Mission-Statement-666f515d76084c8e8c996b473b4d6317). This is one of the requirements for the certification, where you'll boost your dev professional-brand.
+1. https://www.codewars.com/kata/57faece99610ced690000165 <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151836086-2085699a-926c-4b71-b89b-9182a837e3ac.png" alt="Kata 9."/>
+
+2. https://www.codewars.com/kata/5547929140907378f9000039 <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151836219-492ce4ec-8040-4b4a-bdbe-779e5d2ef836.png" alt="Kata 9."/>
+
+3. https://www.codewars.com/kata/5672a98bdbdd995fad00000f <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151836240-8cf020bc-9568-432d-93f7-01e82d32ded0.png" alt="Kata 9."/>
+
+4. https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec <span>&#10003; Done</span>
+<img src="https://user-images.githubusercontent.com/40069878/151836309-ae79c4f2-3d49-4514-9400-758c2cb4295b.png" alt="Kata 9."/>
+
+5. ✨Complete your 1st [**Core Challenge**](https://corecode.notion.site/Mission-Statement-666f515d76084c8e8c996b473b4d6317). This is one of the requirements for the certification, where you'll boost your dev professional-brand. <span>&#10003; Done</span>
+https://www.linkedin.com/in/mromeromojica/?locale=en_US
 
 ## Week links 🔗
 
