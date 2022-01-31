@@ -93,7 +93,8 @@
 <img src="https://user-images.githubusercontent.com/40069878/151836309-ae79c4f2-3d49-4514-9400-758c2cb4295b.png" alt="Kata 9."/>
 
 5. ✨Complete your 1st [**Core Challenge**](https://corecode.notion.site/Mission-Statement-666f515d76084c8e8c996b473b4d6317). This is one of the requirements for the certification, where you'll boost your dev professional-brand. <span>&#10003; Done</span>
-https://www.linkedin.com/in/mromeromojica/?locale=en_US
+  <p>I am Moises Romero, a Web Software Developer. I've developing an ERP System (Enterprise Resource Planning), for the company that I actually work, using Java, JavaScript, Bootstrap, Jquery. I'm looking forward to grow as a Full Stack Developer, build robust and easy-to-use solutions to improve the sustainability of life.</P>
+
 
 ## Week links 🔗
 
