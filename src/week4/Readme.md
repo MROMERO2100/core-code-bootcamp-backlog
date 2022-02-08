@@ -126,6 +126,23 @@ function isPangram(string){
 }
 ```
 2. [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
+```js
+function findMissingLetter(array)
+{
+  //SALTEAMOS LA PRIMERA LETRA
+  for (let i = 1; i < array.length; i++) {
+    //OBTENEMOS EL CODIGO CHAR DE LA LETRA ANTERIOR
+    const prev = array[i - 1].charCodeAt();
+    //OBTENEMOS EL CODIGO CHAR DE LA LETRA ACTUAL
+    const current = array[i].charCodeAt();
+    
+    if (current - prev !== 1) { //SI LA DIFERENCIA ENTRE EL ACTUAL Y LA ANTERIOR NO ES 1
+      //OBTENEMOS EL CARACTER DESPUES DEL ANTERIOR
+      return String.fromCharCode(prev + 1);
+    }
+  }
+  return null; //SI NO ENCONTRAMOS NADA,ENVIAMOS NULL
+```
 3. [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 4. [Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991)
 5. [What's Your Poison?](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094)
