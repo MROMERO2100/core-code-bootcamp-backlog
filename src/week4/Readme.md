@@ -30,12 +30,10 @@
 ## Week challenges (Tuesday) 💻
 
 1. [This](https://www.typescriptlang.org/docs/handbook/intro.html) link is nice to have and read
-2. [Typescript object type](https://typescript-exercises.github.io/#exercise=1)
-    <span>&#10003; Done</span>  [Exercise 1](src/excerciseTS1.ts)
-
+2. [Typescript object type](https://typescript-exercises.github.io/#exercise=1) <span>&#10003; Done</span>  [Exercise 1](src/excerciseTS1.ts)
 3. Read [this](https://blog.logrocket.com/types-vs-interfaces-in-typescript/)
-4. [Typescript union types](https://typescript-exercises.github.io/#exercise=2)
-5. [Typescript in operator](https://typescript-exercises.github.io/#exercise=3)
+4. [Typescript union types](https://typescript-exercises.github.io/#exercise=2) <span>&#10003; Done</span>  [Exercise 2](src/excerciseTS2.ts)
+5. [Typescript in operator](https://typescript-exercises.github.io/#exercise=3) <span>&#10003; Done</span>  [Exercise 3](src/excerciseTS3.ts)
 6. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 7. [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 
