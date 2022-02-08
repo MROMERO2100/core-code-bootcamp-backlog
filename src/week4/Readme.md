@@ -34,8 +34,44 @@
 3. Read [this](https://blog.logrocket.com/types-vs-interfaces-in-typescript/)
 4. [Typescript union types](https://typescript-exercises.github.io/#exercise=2) <span>&#10003; Done</span>  [Exercise 2](src/excerciseTS2.ts)
 5. [Typescript in operator](https://typescript-exercises.github.io/#exercise=3) <span>&#10003; Done</span>  [Exercise 3](src/excerciseTS3.ts)
-6. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
-7. [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
+6. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) <span>&#10003; Done</span>
+
+```js
+function findOdd(A) {
+  //happy coding!
+  var count = 0;
+  var aSize = A.length;
+  for(var i = 0; i<aSize; i++){
+    for(var j = 0; j<aSize; j++){
+      if(A[i] == A[j]){
+        count++;
+      }
+    }
+    if(count % 2 != 0 ){
+      return(A[i]);
+    }
+  }
+}
+```
+
+7. [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)  <span>&#10003; Done</span>
+```js
+function spinWords(string){
+  //TODO Have fun :)
+  const sentenceArray = string.split(' ');
+  let result = '';
+  sentenceArray.map((str, i) => {
+    if (str.length >= 5){
+      sentenceArray[i] = str.split('').reverse().join('');
+    } else {
+      sentenceArray[i] = str;
+    }
+  result = sentenceArray.join(' ');
+  });
+return result;
+  
+}
+```
 
 ## Week challenges (Wednesday) 💻
 
