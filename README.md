@@ -14,7 +14,7 @@ Core Code BootCamp Backlog for track the development
 </ol>
 <li><a href="src/week2/Readme.md" title="Goto Week 2">Week 2 : Javascript</a></li>
 <li><a href="src/week3/Readme.md" title="Goto Week 3">Week 3 : Javascript</a></li>
-<li><a href="#week4" title="Goto Week 4">Week 4 : npm,npx & Typescript</a></li>
+<li><a href="src/week4/Readme.md" title="Goto Week 4">Week 4 : npm,npx & Typescript</a></li>
 <li><a href="#week5" title="Goto Week 5">Week 5 : Typescript</a></li>
 <li><a href="#week6" title="Goto Week 6">Week 6 : Typescript</a></li>
 <li><a href="#week7" title="Goto Week 7">Week 7 : Typescript</a></li>
