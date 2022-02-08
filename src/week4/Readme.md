@@ -110,7 +110,21 @@ function createPhoneNumber(numbers){
 
 ## Week challenges (Thursday) 💻
 
-1. [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+1. [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) <span>&#10003; Done</span>
+```js
+function isPangram(string){
+  let alpha = string.toUpperCase().split("");
+  for (let beta = 65; beta < 91; beta++) {
+    let gamma = String.fromCharCode(beta);
+    if (alpha.includes(gamma)) {
+      continue;
+    } else {
+      return false;
+    }
+  }
+  return true;
+}
+```
 2. [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
 3. [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 4. [Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991)
