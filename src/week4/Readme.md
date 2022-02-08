@@ -75,8 +75,33 @@ return result;
 
 ## Week challenges (Wednesday) 💻
 
-1. [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
-2. [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
+1. [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) <span>&#10003; Done</span>
+```js
+function arrayDiff(a, b) {
+  let NewArray=[];
+  let aSize=a.length;
+
+  for(let i=0; i<aSize; i++){
+    console.log(a[i]);
+    if(!b.includes(a[i])){
+      NewArray.push(a[i]);
+    }
+  }
+  return NewArray;
+}
+```
+
+2. [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)  <span>&#10003; Done</span>
+```js
+function createPhoneNumber(numbers){
+  let myArray = numbers;
+  let begin = myArray.slice(0,3);
+  let midle = myArray.slice(3,6);
+  let end = myArray.slice(6,10);
+  return '('+begin.join('')+') '+midle.join('')+'-'+end.join('');
+}
+```
+
 3. Watch [this](https://www.youtube.com/watch?v=m_MQYyJpIjg)
 4. Watch [this](https://www.youtube.com/watch?v=08CWw_VD45w)
 5. Read [this](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)
