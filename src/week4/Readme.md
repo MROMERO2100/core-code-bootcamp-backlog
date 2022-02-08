@@ -31,7 +31,7 @@
 
 1. [This](https://www.typescriptlang.org/docs/handbook/intro.html) link is nice to have and read
 2. [Typescript object type](https://typescript-exercises.github.io/#exercise=1)
-    <span>&#10003; Done</span>  [Exercise 1](src/week4/src/excerciseTS1.ts)
+    <span>&#10003; Done</span>  [Exercise 1](src/excerciseTS1.ts)
 
 3. Read [this](https://blog.logrocket.com/types-vs-interfaces-in-typescript/)
 4. [Typescript union types](https://typescript-exercises.github.io/#exercise=2)
