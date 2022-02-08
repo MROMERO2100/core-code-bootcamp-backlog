@@ -102,11 +102,11 @@ function createPhoneNumber(numbers){
 }
 ```
 
-3. Watch [this](https://www.youtube.com/watch?v=m_MQYyJpIjg)
-4. Watch [this](https://www.youtube.com/watch?v=08CWw_VD45w)
-5. Read [this](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)
-6. Read [this](https://naveenkumarkoppala.medium.com/typescript-oops-c327678744b0)
-7. Read [this](https://rambabupadimi.medium.com/typescript-object-oriented-programming-7a6fd905d90e)
+3. Watch [this](https://www.youtube.com/watch?v=m_MQYyJpIjg)  <span>&#10003; Done</span>
+4. Watch [this](https://www.youtube.com/watch?v=08CWw_VD45w)  <span>&#10003; Done</span>
+5. Read [this](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)  <span>&#10003; Done</span>
+6. Read [this](https://naveenkumarkoppala.medium.com/typescript-oops-c327678744b0)  <span>&#10003; Done</span>
+7. Read [this](https://rambabupadimi.medium.com/typescript-object-oriented-programming-7a6fd905d90e)  <span>&#10003; Done</span>
 
 ## Week challenges (Thursday) 💻
 
