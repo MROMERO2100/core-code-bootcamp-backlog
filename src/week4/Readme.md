@@ -145,6 +145,15 @@ function findMissingLetter(array)
   }
 ```
 3. [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+```js
+function findUniq(arr) {
+ let count = 1, unique = 0;
+      arr.sort().map((num, i, arr) => {
+        num !== arr[i+1] ? (count === 1 ? unique = num : count = 1) : count++;
+    });
+    return unique;
+}
+```
 4. [Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991)
 5. [What's Your Poison?](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094)
 6. ✨Complete your 3rd [**Core Challenge**](https://corecode.notion.site/GitHub-Boost-Guide-167914056cff4522886a78756f659e47). This is one of the requirements for the certification, where you'll boost your dev professional-brand.
