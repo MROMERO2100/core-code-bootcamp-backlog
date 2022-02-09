@@ -125,7 +125,8 @@ function isPangram(string){
   return true;
 }
 ```
-2. [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
+2. [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)  <span>&#10003; Done</span>
+
 ```js
 function findMissingLetter(array)
 {
@@ -144,7 +145,9 @@ function findMissingLetter(array)
   return null; //SI NO ENCONTRAMOS NADA,ENVIAMOS NULL
   }
 ```
-3. [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+
+3. [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) <span>&#10003; Done</span>
+
 ```js
 function findUniq(arr) {
  let count = 1, unique = 0;
@@ -154,9 +157,33 @@ function findUniq(arr) {
     return unique;
 }
 ```
-4. [Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991)
-5. [What's Your Poison?](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094)
-6. ✨Complete your 3rd [**Core Challenge**](https://corecode.notion.site/GitHub-Boost-Guide-167914056cff4522886a78756f659e47). This is one of the requirements for the certification, where you'll boost your dev professional-brand.
+
+4. [Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991) <span>&#10003; Done</span>
+
+```js
+function revrot(str, sz) {
+    if(str === "" || sz > str.length || sz === 0) return "";
+    
+    let aux = [];
+    for(let i = 0, count = Math.trunc(str.length/sz); i < count; i++){
+        aux.push(str.slice(i*sz, (i+1)*sz));
+    }
+    
+    return aux.map((chunk) => {
+        let a = chunk.split("").reduce((prev, curr) => {
+        return prev + Math.pow(Number(curr), 3);
+        }, 0);
+        
+        if(a%2 === 0) return chunk.split("").reverse().join("");
+        return chunk.slice(1) + chunk[0];
+    }).join("");
+
+}
+```
+
+5. [What's Your Poison?](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094) <span>&#10003; Done</span>
+
+6. ✨Complete your 3rd [**Core Challenge**](https://corecode.notion.site/GitHub-Boost-Guide-167914056cff4522886a78756f659e47). This is one of the requirements for the certification, where you'll boost your dev professional-brand.  <span>&#10003; Done</span>
 
 ## Week links 🔗
 
