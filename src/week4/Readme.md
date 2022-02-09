@@ -142,6 +142,7 @@ function findMissingLetter(array)
     }
   }
   return null; //SI NO ENCONTRAMOS NADA,ENVIAMOS NULL
+  }
 ```
 3. [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 4. [Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991)
