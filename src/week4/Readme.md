@@ -182,7 +182,13 @@ function revrot(str, sz) {
 ```
 
 5. [What's Your Poison?](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094) <span>&#10003; Done</span>
-
+```js
+function find(rats) {
+        return rats.reduce((prev, curr) => {
+          return prev + Math.pow(2, curr);
+      }, 0);
+}
+```
 6. ✨Complete your 3rd [**Core Challenge**](https://corecode.notion.site/GitHub-Boost-Guide-167914056cff4522886a78756f659e47). This is one of the requirements for the certification, where you'll boost your dev professional-brand.  <span>&#10003; Done</span>
 
 ## Week links 🔗
