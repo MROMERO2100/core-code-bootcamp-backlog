@@ -24,11 +24,11 @@
 
 ## Week challenges (Monday) 💻
 
-1. Read [this](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) from `The primitives: string, number and boolean` to `Differences Between Type Aliases and Interfaces` section
-2. [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f/train/typescript) Using `Typescript`
-3. [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/typescript) Using `Typescript`
-4. [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/typescript) Using `Typescript`
-5. [A wolf in sheep's clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/typescript) Using `Typescript`
+1. Read [this](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) from `The primitives: string, number and boolean` to `Differences Between Type Aliases and Interfaces` section <span>&#10003; Done</span>
+2. [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
+3. [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/typescript) Using `Typescript` <span>&#10003; Done</span>
+4. [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/typescript) Using `Typescript` <span>&#10003; Done</span>
+5. [A wolf in sheep's clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/typescript) Using `Typescript` <span>&#10003; Done</span>
 
 ## Week challenges (Tuesday) 💻
 
