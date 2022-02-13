@@ -38,17 +38,43 @@ export function squareSum(numbers: number[]): number {
 
 3. [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/typescript) Using `Typescript` <span>&#10003; Done</span>
 ```js
-
+export class G964 {
+    public static nbYear = (p0, percent, aug, p) => {
+    //P0 POBLACION INICIAL,//percent PORCENTAJE DE CRECIMIENTO AL AÑO
+    //aug, NUEVOS HABITANTES, POR AÑO //p, CANTIDAD DE HABITANTES A ALCANZAR
+      //formula = totalp + (totalp*percent) + aug;
+      let years=0, totalP=p0;
+      let porcentaje=(percent/100);
+      while(totalP<p){
+          totalP = (totalP+(totalP*porcentaje)+aug);
+          years = years+1;
+      }
+      return years;
+    }
+}
 ```
 
 4. [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/typescript) Using `Typescript` <span>&#10003; Done</span>
 ```js
+export function accum(s: string): string {
+  var letters = s.split(''), words = [];
 
+  for(var i = 0; i < letters.length; i++) {
+    words.push(letters[i].toUpperCase() + Array(i + 1).join(letters[i].toLowerCase()));
+  }
+
+  return words.join('-');
+  
+}
 ```
 
 5. [A wolf in sheep's clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/typescript) Using `Typescript` <span>&#10003; Done</span>
 ```js
-
+export function warnTheSheep(queue: string[]): string {
+  const index=queue.indexOf("wolf");
+  return index===queue.length-1 ? "Pls go away and stop eating my sheep":
+  `Oi! Sheep number ${queue.length-1-index}! You are about to be eaten by a wolf!`;
+}
 ```
 
 ## Week challenges (Tuesday) 💻
