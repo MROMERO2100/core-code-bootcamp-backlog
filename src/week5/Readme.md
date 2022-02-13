@@ -138,7 +138,13 @@ export function validBraces(braces: string): boolean {
 
 2. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/typescript) Using `Typescript`
 ```js
-
+export const findOdd = (xs: number[]): number => {
+    let result = 0;
+    for(let i=0; i<xs.length; i++){
+        result = result^xs[i];
+     }
+    return result;
+};
 ```
 
 3. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/typescript) Using `Typescript`
