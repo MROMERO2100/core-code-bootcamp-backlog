@@ -106,7 +106,20 @@ export class G964 {
 
 3. [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) Using `Typescript`
 ```js
-
+export function validBraces(braces: string): boolean {
+    let opening = [ '(', '[', '{']
+    let closing = [ ')', ']', '}']
+    let arr = []
+    for (let i = 0; i < braces.length; i++) {
+        if (opening.includes(braces[i])) {
+            arr.push(braces[i])
+        } else
+        if (closing.indexOf(braces[i]) === opening.indexOf(arr[arr.length - 1])) {
+            arr.pop()
+        } else return false
+    } 
+  return arr.length === 0;
+}
 ```
 
 4. [Tic-Tac-Toe](https://www.codewars.com/kata/5216a87cbf53a9c30f0000dc) Using `Javascript`
