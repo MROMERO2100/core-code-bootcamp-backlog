@@ -86,7 +86,22 @@ export function warnTheSheep(queue: string[]): string {
 
 2. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) Using `Typescript`
 ```js
-
+export class G964 {
+    public static digPow = (n: number, p: number) => {
+        var digits, result, i, num;
+        digits = Math.floor(Math.log10(n)) + p;
+        result = 0;
+        num = n;                                 
+        while(digits >= p){                      
+            result += Math.pow((num % 10),digits--);
+            num = Math.floor(num / 10);
+        }
+        if(result % n === 0){  // vet result
+            return result / n;
+        }
+        return -1;
+    }
+}
 ```
 
 3. [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) Using `Typescript`
