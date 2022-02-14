@@ -159,7 +159,38 @@ export const findOdd = (xs: number[]): number => {
 
 5. [Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e) Using `Typescript`
 ```js
+export function longestConsec(strarr: string[], k: number): string {
+    let n = strarr.length;
+    let count = k;
+    if (!n || k <= 0 || count > strarr.length) return '';
 
+    let lengths = Array(n);
+
+    // fill the running window
+    let windowLen = 0;
+    for (let i = 0; i < count - 1; i++) {
+        let stringLen = strarr[i].length;
+        windowLen += stringLen;
+        // fill the cache with items 0..count-1, the rest will be filled in the main loop
+        lengths[i] = stringLen;
+    }
+
+    let maxLen = 0;
+    let maxLenAt = 0;
+    for (let i = count - 1, windowStart = 0; i < n; i++, windowStart++) {
+        let stringLen = strarr[i].length;
+        lengths[i] = stringLen;
+
+        let thisLen = windowLen + stringLen;
+        if (thisLen > maxLen) {
+            maxLen = thisLen;
+            maxLenAt = windowStart;
+        }
+        windowLen += stringLen - lengths[windowStart];
+    }
+
+    return strarr.slice(maxLenAt, maxLenAt + count).join('');
+}
 ```
 
 ## Week challenges (Thursday) 💻
