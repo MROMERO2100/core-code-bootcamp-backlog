@@ -79,12 +79,12 @@ export function warnTheSheep(queue: string[]): string {
 
 ## Week challenges (Tuesday) 💻
 
-1. [A Rule of Divisibility by 13](https://www.codewars.com/kata/564057bc348c7200bd0000ff) Using `Typescript`
+1. [A Rule of Divisibility by 13](https://www.codewars.com/kata/564057bc348c7200bd0000ff) Using `Typescript`  <span>&#10003; Done</span>
 ```js
 
 ```
 
-2. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) Using `Typescript`
+2. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) Using `Typescript` <span>&#10003; Done</span>
 ```js
 export class G964 {
     public static digPow = (n: number, p: number) => {
@@ -104,7 +104,7 @@ export class G964 {
 }
 ```
 
-3. [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) Using `Typescript`
+3. [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) Using `Typescript`  <span>&#10003; Done</span>
 ```js
 export function validBraces(braces: string): boolean {
     let opening = [ '(', '[', '{']
@@ -122,21 +122,21 @@ export function validBraces(braces: string): boolean {
 }
 ```
 
-4. [Tic-Tac-Toe](https://www.codewars.com/kata/5216a87cbf53a9c30f0000dc) Using `Javascript`
+4. [Tic-Tac-Toe](https://www.codewars.com/kata/5216a87cbf53a9c30f0000dc) Using `Javascript` <span>&#10003; Done</span>
 ```js
 
 ```
 
-5. [Tic-Tac-Toe-like table Generator](https://www.codewars.com/kata/5b817c2a0ce070ace8002be0) Using `Javascript`
+5. [Tic-Tac-Toe-like table Generator](https://www.codewars.com/kata/5b817c2a0ce070ace8002be0) Using `Javascript`  <span>&#10003; Done</span>
 
 ## Week challenges (Wednesday) 💻
 
-1. [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/typescript) Using `Typescript`
+1. [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
 ```js
 
 ```
 
-2. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/typescript) Using `Typescript`
+2. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/typescript) Using `Typescript` <span>&#10003; Done</span>
 ```js
 export const findOdd = (xs: number[]): number => {
     let result = 0;
@@ -147,17 +147,17 @@ export const findOdd = (xs: number[]): number => {
 };
 ```
 
-3. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/typescript) Using `Typescript`
+3. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
 ```js
 
 ```
 
-4. [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/typescript) Using `Typescript`
+4. [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
 ```js
 
 ```
 
-5. [Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e) Using `Typescript`
+5. [Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e) Using `Typescript` <span>&#10003; Done</span>
 ```js
 export function longestConsec(strarr: string[], k: number): string {
     let n = strarr.length;
@@ -195,10 +195,9 @@ export function longestConsec(strarr: string[], k: number): string {
 
 ## Week challenges (Thursday) 💻
 
-1. [Tile](./Exercices/E0/desc/ED0W5.md) Using `Typescript`
-2. [Time](./Exercices/E1/desc/ED1W5.md) Using `Typescript`
-3. [Rational](./Exercices/E2/desc/ED2W5.md) Using `Typescript`
-4. [Movies](./Exercices/E3/desc/ED3W5.md) Using `Typescript`
-5. ✨Complete your 4th [**Core Challenge**](https://corecode.notion.site/Earn-your-SCRUM-certificate-8d9d0d40abaa4ee18c77c5a2cc1929b8). This is one of the requirements for the certification, where you'll boost your dev professional-brand.
+1. [Tile](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week5/Exercices/E0/desc/ED0W5.md) Using `Typescript`  <span>&#10003; Done</span>
+2. [Time](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week5/Exercices/E1/desc/ED1W5.md) Using `Typescript`  <span>&#10003; Done</span>
+3. [Rational](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week5/Exercices/E2/desc/ED2W5.md) Using `Typescript`  <span>&#10003; Done</span>
+4. ✨Complete your 4th [**Core Challenge**](https://corecode.notion.site/Earn-your-SCRUM-certificate-8d9d0d40abaa4ee18c77c5a2cc1929b8). This is one of the requirements for the certification, where you'll boost your dev professional-brand. <span>&#10003; Done</span>
 
 [HOME](https://github.com/MROMERO2100/core-code-bootcamp-backlog)
