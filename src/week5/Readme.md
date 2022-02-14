@@ -201,4 +201,4 @@ export function longestConsec(strarr: string[], k: number): string {
 4. [Movies](./Exercices/E3/desc/ED3W5.md) Using `Typescript`
 5. ✨Complete your 4th [**Core Challenge**](https://corecode.notion.site/Earn-your-SCRUM-certificate-8d9d0d40abaa4ee18c77c5a2cc1929b8). This is one of the requirements for the certification, where you'll boost your dev professional-brand.
 
-## Week links 🔗
+[HOME](https://github.com/MROMERO2100/core-code-bootcamp-backlog)
