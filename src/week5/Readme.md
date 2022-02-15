@@ -160,7 +160,22 @@ function displayBoard(board, width){
 
 1. [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
 ```js
-
+export function duplicateEncode(word: string){
+    let chars=[...word.toLowerCase()];
+    let duplicateList = chars.filter((char,index,chars)=>chars.indexOf(char)!==index);
+    let duplicateSet = new Set(duplicateList); 
+    let uniqueDuplicateList = [...duplicateSet];
+    //console.log(uniqueDuplicateList);
+    let resultString = "";
+    for (let i=0, n=chars.length; i < n; ++i ) {
+      if(uniqueDuplicateList.includes(chars[i])) {
+        resultString += ")";
+      } else {
+        resultString += "(";
+      }
+    }
+    return resultString;
+}
 ```
 
 2. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/typescript) Using `Typescript` <span>&#10003; Done</span>
