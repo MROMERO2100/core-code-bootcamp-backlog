@@ -191,7 +191,12 @@ export const findOdd = (xs: number[]): number => {
 
 3. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
 ```js
-
+export class G964 {
+  public static inArray(a1: string[], a2: string[]): string[] {
+    let arr = a2.join(" ");
+    return a1.filter(item => arr.search(item) !== -1 && item !== undefined ).sort()
+  }
+}
 ```
 
 4. [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
