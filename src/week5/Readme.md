@@ -232,7 +232,15 @@ export class G964 {
 
 4. [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
 ```js
-
+export function partsSums(ls: number[]): number[] {
+  let finalNumbers:number[] = [0];
+  let sum = 0;
+  ls.reverse().forEach( a => {
+    sum += a;
+    finalNumbers.push(sum);
+  });
+  return finalNumbers.reverse();
+}
 ```
 
 5. [Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e) Using `Typescript` <span>&#10003; Done</span>
