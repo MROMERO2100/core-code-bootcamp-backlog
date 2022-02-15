@@ -81,7 +81,25 @@ export function warnTheSheep(queue: string[]): string {
 
 1. [A Rule of Divisibility by 13](https://www.codewars.com/kata/564057bc348c7200bd0000ff) Using `Typescript`  <span>&#10003; Done</span>
 ```js
+export function thirt(n: number): number {
+  let arrayNumbers =  [];
+  let previous  = 0, current = n, total = 0;
+  let count = 0;
 
+  while (previous !== current){
+    previous = current;
+    arrayNumbers =  current.toString().split("");
+    
+    for(let i = arrayNumbers.length - 1; i >= 0; i--){
+      if(count === 6) count = 0;
+      total += Number(arrayNumbers[i]) * ((10 ** count) % 13); 
+      count++;
+    }
+    current = total;
+    count = total = 0;
+  }
+  return current;
+}
 ```
 
 2. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) Using `Typescript` <span>&#10003; Done</span>
