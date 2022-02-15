@@ -142,7 +142,20 @@ export function validBraces(braces: string): boolean {
 
 4. [Tic-Tac-Toe](https://www.codewars.com/kata/5216a87cbf53a9c30f0000dc) Using `Javascript` <span>&#10003; Done</span>
 ```js
-
+// returns index of move
+function solveTTT(board) {
+     const pass = xs => xs.map(x=>board[x]).join('') === 'XX'
+    for (const xs of [[0,1,2],
+                      [3,4,5],
+                      [6,7,8],
+                      [0,3,6],
+                      [1,4,7],
+                      [2,5,8],
+                      [0,4,8],
+                      [2,4,6]]) 
+      if (pass(xs)) return xs.find(x=> !board[x] )
+    return board.findIndex(x => !x)
+}
 ```
 
 5. [Tic-Tac-Toe-like table Generator](https://www.codewars.com/kata/5b817c2a0ce070ace8002be0) Using `Javascript`  <span>&#10003; Done</span>
