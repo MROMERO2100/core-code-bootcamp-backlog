@@ -124,6 +124,11 @@ export function validBraces(braces: string): boolean {
 
 4. [Tic-Tac-Toe](https://www.codewars.com/kata/5216a87cbf53a9c30f0000dc) Using `Javascript` <span>&#10003; Done</span>
 ```js
+
+```
+
+5. [Tic-Tac-Toe-like table Generator](https://www.codewars.com/kata/5b817c2a0ce070ace8002be0) Using `Javascript`  <span>&#10003; Done</span>
+```js
 function displayBoard(board, width){  
   let newBoard=' ';
   let boardSize = board.length;
@@ -150,8 +155,6 @@ function displayBoard(board, width){
   return newBoard;
 }
 ```
-
-5. [Tic-Tac-Toe-like table Generator](https://www.codewars.com/kata/5b817c2a0ce070ace8002be0) Using `Javascript`  <span>&#10003; Done</span>
 
 ## Week challenges (Wednesday) 💻
 
