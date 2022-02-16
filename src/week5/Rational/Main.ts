@@ -1,4 +1,3 @@
-```ts
 import { Rational } from './Rational';
 export class Main {
   start() {
@@ -13,4 +12,3 @@ export class Main {
     r1.printRational(); // 10 / 3
   }
 }
-```
