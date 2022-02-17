@@ -281,21 +281,18 @@ export function longestConsec(strarr: string[], k: number): string {
 
 ## Week challenges (Thursday) 💻
 
-1. [Tile](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week5/Exercices/E0/desc/ED0W5.md) Using `Typescript`  <span>&#10003; Done</span>
-## Files
+## 1. [Tile](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week5/Exercices/E0/desc/ED0W5.md) Using `Typescript`  <span>&#10003; Done</span>
 - [Main.ts](Tile/Main.ts)
 - [Tile.ts](Tile//Tile.ts)
 
-2. [Time](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week5/Exercices/E1/desc/ED1W5.md) Using `Typescript`  <span>&#10003; Done</span>
-## Files
+## 2. [Time](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week5/Exercices/E1/desc/ED1W5.md) Using `Typescript`  <span>&#10003; Done</span>
 - [Main.ts](Time/Main.ts)
 - [Time.ts](Time//Time.ts)
 
-3. [Rational](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week5/Exercices/E2/desc/ED2W5.md) Using `Typescript`  <span>&#10003; Done</span>
-## Files
+## 3. [Rational](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week5/Exercices/E2/desc/ED2W5.md) Using `Typescript`  <span>&#10003; Done</span>
 - [Main.ts](Rational/Main.ts)
 - [Rational.ts](Rational//Rational.ts)
 
-4. ✨Complete your 4th [**Core Challenge**](https://corecode.notion.site/Earn-your-SCRUM-certificate-8d9d0d40abaa4ee18c77c5a2cc1929b8). This is one of the requirements for the certification, where you'll boost your dev professional-brand. <span>&#10003; Done</span>
+## 4. ✨Complete your 4th [**Core Challenge**](https://corecode.notion.site/Earn-your-SCRUM-certificate-8d9d0d40abaa4ee18c77c5a2cc1929b8). This is one of the requirements for the certification, where you'll boost your dev professional-brand. <span>&#10003; Done</span>
 
 [HOME](https://github.com/MROMERO2100/core-code-bootcamp-backlog)
