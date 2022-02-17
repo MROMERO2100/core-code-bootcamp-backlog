@@ -31,6 +31,20 @@
 ## Week challenges (Wednesday) 💻
 
 1. [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/typescript) Using `Typescript`
+
+```js
+export const towerBuilder = (nFloors: number): string[] => {
+  // build here
+  let tower=[];
+  let numSpaces=0;
+  for (let i = nFloors; i > 0; i--) {
+    tower.push(" ".repeat(numSpaces) + "*".repeat(i) + "*".repeat(i-1)  + " ".repeat(numSpaces));
+    numSpaces++;
+  }
+  return tower.reverse();
+}
+```
+
 2. [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/typescript) Using `Typescript`
 3. [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/typescript) Using `Typescript`
 4. [Meeting](https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/typescript) Using `Typescript`
