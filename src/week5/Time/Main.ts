@@ -1,14 +1,15 @@
-import { Tile } from './Tile';
+import { Time } from './Time';
 export class Main {
   start() {
-    const A = new Tile('A', 10);
-    A.printTile(); // Example of a reader-friendly format above
+    const t = new Time(10, 45, 1);
+    t.printTime(); // Example of a reader-friendly format above
     /*
       ==================
-        Letter: A
-        Value: 10
+        Hours: 10
+        Minutes: 45
+        Seconds: 1
       ==================
     */
-    const W = new Tile('W', '50'); // This should show and error
+    console.log(t.getInSeconds()); // 38701
   }
 }
