@@ -52,6 +52,11 @@ export const towerBuilder = (nFloors: number): string[] => {
 
 ## Week challenges (Thursday) 💻
 
+1. Watch [Object Oriented Programming - The Four Pillars of OOP](https://www.youtube.com/watch?v=1ONhXmQuWP8)
+2. Watch [Abstract Classes vs Interfaces](https://www.youtube.com/watch?v=Lnqmde9LP74)
+3. Read [Abstract Classes](https://sbcode.net/typescript/abstract_classes/)
+
 ## Week links 🔗
 
 1. [Example 1 - Typescript](https://github.com/corecodeio/FS0422_Typescript_01)
+2. [Standup code](./Example/standup.ts)
