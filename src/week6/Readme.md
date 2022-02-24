@@ -32,7 +32,7 @@
 
 ## Week challenges (Wednesday) 💻
 
-1. [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/typescript) Using `Typescript`
+1. [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
 
 ```js
 export const towerBuilder = (nFloors: number): string[] => {
@@ -47,16 +47,39 @@ export const towerBuilder = (nFloors: number): string[] => {
 }
 ```
 
-2. [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/typescript) Using `Typescript`
-3. [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/typescript) Using `Typescript`
-4. [Meeting](https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/typescript) Using `Typescript`
-5. [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/5853213063adbd1b9b0000be/train/typescript) Using `Typescript`
+2. [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/typescript) Using `Typescript` <span>&#10003; Done</span>
+
+```js
+export const high = (str: string): string =>{
+  let as = str.split(' ').map(s => [...s].reduce((a, b) => a+b.charCodeAt(0) - 96, 0)
+  );
+  return str.split(' ')[as.indexOf(Math.max(...as))];
+}
+```
+
+3. [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
+
+```js
+
+```
+
+4. [Meeting](https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
+
+```js
+
+```
+
+5. [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/5853213063adbd1b9b0000be/train/typescript) Using `Typescript` <span>&#10003; Done</span>
+
+```js
+
+```
 
 ## Week challenges (Thursday) 💻
 
-1. Watch [Object Oriented Programming - The Four Pillars of OOP](https://www.youtube.com/watch?v=1ONhXmQuWP8)
-2. Watch [Abstract Classes vs Interfaces](https://www.youtube.com/watch?v=Lnqmde9LP74)
-3. Read [Abstract Classes](https://sbcode.net/typescript/abstract_classes/)
+1. Watch [Object Oriented Programming - The Four Pillars of OOP](https://www.youtube.com/watch?v=1ONhXmQuWP8) <span>&#10003; Done</span>
+2. Watch [Abstract Classes vs Interfaces](https://www.youtube.com/watch?v=Lnqmde9LP74)  <span>&#10003; Done</span>
+3. Read [Abstract Classes](https://sbcode.net/typescript/abstract_classes/) <span>&#10003; Done</span>
 
 ## Week links 🔗
 
