@@ -79,7 +79,15 @@ export function findEvenIndex(arr: number[]): number
 4. [Meeting](https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
 
 ```js
-
+export function meeting(s: string): string {
+  return s.toUpperCase()
+          .split(";")
+          .map(name => name.split(":").reverse())
+          .sort()
+          .reduce((acc,name)=> (
+          acc += `(${name[0]}, ${name[1]})`
+  ),"")
+}
 ```
 
 5. [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/5853213063adbd1b9b0000be/train/typescript) Using `Typescript` <span>&#10003; Done</span>
