@@ -19,9 +19,9 @@
 
 ## Week challenges (Monday) 💻
 
-1. Read [this](./Example/Input.md)  <span>&#10003; Done</span>
-##2. [Menu](./Exercices/E0/desc/ED0W6.md) Using `Typescript`  <span>&#10003; Done</span>
-- [Menu Project](./Menu/Readme.md)
+## 1. Read [this](./Example/Input.md)  <span>&#10003; Done</span>
+## 2. [Menu](./Exercices/E0/desc/ED0W6.md) Using `Typescript`  <span>&#10003; Done</span>
+- [Menu Project](./Menu/)
 
 
 ## Week challenges (Tuesday) 💻
