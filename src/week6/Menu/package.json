@@ -1,0 +1,20 @@
+{
+  "name": "menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+
+  "scripts": {
+    "start": "node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {"name": "Moises Romer Mojica","email": "mromero2100@gmail.com"},
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "4.5.5"
+  },
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
