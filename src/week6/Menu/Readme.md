@@ -54,7 +54,7 @@ You are working at a restaurant, your task is to create the main menu, here are 
 17. Remember that after the user has selected an option of the sub-menu, the user gets the message with the information of the selected option (emoji and price) and then the main menu is shown again to the user, to select the next option or to exit the program.
 18. The Main class should only need to have the creation of an instance of the class menu and the call for the showMainMenu option.
 
-# [BACK](https://github.com/MROMERO2100/core-code-bootcamp-backlog/blob/main/src/week6/Readme.md)
-# [HOME](https://github.com/MROMERO2100/core-code-bootcamp-backlog)
+ [BACK](https://github.com/MROMERO2100/core-code-bootcamp-backlog/blob/main/src/week6/Readme.md)
+ [HOME](https://github.com/MROMERO2100/core-code-bootcamp-backlog)
 
 
