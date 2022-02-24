@@ -20,14 +20,14 @@
 ## Week challenges (Monday) 💻
 
 ## 1. Read [this](./Example/Input.md)  <span>&#10003; Done</span>
-## 2. [Menu](./Exercices/E0/desc/ED0W6.md) Using `Typescript`  <span>&#10003; Done</span>
+## 2. [Menu](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week6/Exercices/E0/desc/ED0W6.md) Using `Typescript`  <span>&#10003; Done</span>
 - [Menu Project](./Menu/)
 
 
 ## Week challenges (Tuesday) 💻
 
-1. [Movies](./Exercices/E1/desc/ED1W6.md) Using `Typescript`
-2. [Readme](./Exercices/E2/desc/ED2W6.md)
+1. [Movies](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week6/Exercices/E1/desc/ED1W6.md) Using `Typescript`
+2. [Readme](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week6/Exercices/E2/desc/ED2W6.md)
 3. [Interfaces](https://docs.microsoft.com/en-us/learn/modules/typescript-implement-interfaces/)
 
 ## Week challenges (Wednesday) 💻
@@ -150,5 +150,7 @@ const getHorizonIdx = (array: string[], idx: number, isLeft: boolean) => {
 
 ## Week links 🔗
 
-1. [Example 1 - Typescript](https://github.com/corecodeio/FS0422_Typescript_01)
-2. [Standup code](./Example/standup.ts)
+1. [Example 1 - Typescript](https://github.com/corecodeio/FS0422_Typescript_01/tree/main/src/E0)
+2. [Standup code](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week6/Example/standup.ts)
+3. [Example 2 - Typescript](https://github.com/corecodeio/FS0422_Typescript_01/tree/main/src/E1)
+4. [Example 3 - Typescript](https://github.com/corecodeio/FS0422_Typescript_01/tree/main/src/E2)
