@@ -60,7 +60,20 @@ export const high = (str: string): string =>{
 3. [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
 
 ```js
-
+export function findEvenIndex(arr: number[]): number
+{
+  let sum = 0,leftSum = 0;
+  let arraySize=arr.length;
+  for (var i = 0; i < arraySize; i++) {
+    sum += arr[i];
+  }
+  for (var i = 0; i < arraySize; i++) {
+    sum -= arr[i];
+    if (leftSum === sum) return i;
+    leftSum += arr[i];
+  }
+  return -1;
+}
 ```
 
 4. [Meeting](https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/typescript) Using `Typescript`  <span>&#10003; Done</span>
