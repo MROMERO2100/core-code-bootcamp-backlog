@@ -154,3 +154,5 @@ const getHorizonIdx = (array: string[], idx: number, isLeft: boolean) => {
 2. [Standup code](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week6/Example/standup.ts)
 3. [Example 2 - Typescript](https://github.com/corecodeio/FS0422_Typescript_01/tree/main/src/E1)
 4. [Example 3 - Typescript](https://github.com/corecodeio/FS0422_Typescript_01/tree/main/src/E2)
+
+[HOME](https://github.com/MROMERO2100/core-code-bootcamp-backlog)
