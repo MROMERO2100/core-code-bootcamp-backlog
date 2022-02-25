@@ -146,7 +146,7 @@ const getHorizonIdx = (array: string[], idx: number, isLeft: boolean) => {
 
 1. Watch [Object Oriented Programming - The Four Pillars of OOP](https://www.youtube.com/watch?v=1ONhXmQuWP8) <span>&#10003; Done</span>
 2. Watch [Abstract Classes vs Interfaces](https://www.youtube.com/watch?v=Lnqmde9LP74)  <span>&#10003; Done</span>
-3. Read [Abstract Classes](https://sbcode.net/typescript/abstract_classes/) <span>&#10003; Done</span> [x]
+3. Read [Abstract Classes](https://sbcode.net/typescript/abstract_classes/) <span>&#10003; Done</span>
 
 ## Week links 🔗
 
