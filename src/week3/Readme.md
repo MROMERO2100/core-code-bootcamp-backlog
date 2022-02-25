@@ -81,3 +81,5 @@
 6. [Default](./Examples/05_default.js)
 7. [Arrow Functions](./Examples/06_arrf.js)
 8. [Array Methods](./Examples/07_a_methods.js)
+
+[HOME](https://github.com/MROMERO2100/core-code-bootcamp-backlog)
