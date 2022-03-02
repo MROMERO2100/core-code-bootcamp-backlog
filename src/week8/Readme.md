@@ -5,7 +5,10 @@
 - Create a webpage that prints your name to the screen. <span>&#10003; Done</span>
   - [Check Here](./Monday/work1.html)
 - Create a webpage and set its title to "CoreCode Bootcamp".    <span>&#10003; Done</span>
+  - [Check Here](./Monday/work2.html)
 - Create a webpage that prints what you like the most about programming and give it a title of your choice.     <span>&#10003; Done</span>
+  - [Check Here](./Monday/work3.html)
+
 
 ## Week challenges (Tuesday) 💻
 - Create a webpage that prints the numbers 1 - 10, each number being a different color. (No JS/TS)  <span>&#10003; Done</span>
