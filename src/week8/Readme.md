@@ -3,6 +3,7 @@
 ## Week challenges (Monday) 💻
 - Watch this [video](https://www.youtube.com/watch?v=XYTwYmOjqQs&ab_channel=RedStapler) <span>&#10003; Done</span>
 - Create a webpage that prints your name to the screen. <span>&#10003; Done</span>
+  - [Check Here](./Monday/work1.html)
 - Create a webpage and set its title to "CoreCode Bootcamp".    <span>&#10003; Done</span>
 - Create a webpage that prints what you like the most about programming and give it a title of your choice.     <span>&#10003; Done</span>
 
