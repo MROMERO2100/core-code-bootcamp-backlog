@@ -12,8 +12,11 @@
 
 ## Week challenges (Tuesday) 💻
 - Create a webpage that prints the numbers 1 - 10, each number being a different color. (No JS/TS)  <span>&#10003; Done</span>
+  - [Check Here](./Thursday/work1.html)
 - Create a webpage that prints two lists with any information you want. One list should be an ordered list, the other list should be an unordered list.     <span>&#10003; Done</span>
+  - [Check Here](./Thursday/work1.html)
 - Create a webpage that prints some random paragraphs (https://loremipsum.io/es/) and give them some titles using different header sizes.   <span>&#10003; Done</span>
+  - [Check Here](./Thursday/work1.html)
 
 ## Week challenges (Wednesday) 💻
 - Create some links to various search engines.  <span>&#10003; Done</span>
