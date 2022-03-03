@@ -20,8 +20,11 @@
 
 ## Week challenges (Wednesday) 💻
 - Create some links to various search engines.  <span>&#10003; Done</span>
+  - [Check Here](./Wednesday/work1.html)
 - Display five different images. Each image should have a title.    <span>&#10003; Done</span>
+  - [Check Here](./Wednesday/work2.html)
 - Display an image that when clicked will link to a website of your choice (should be opened in a new window).  <span>&#10003; Done</span>
+  - [Check Here](./Wednesday/work3.html)
 
 ## Week challenges (Thursday) 💻
 - Use a website you created before and give some classes and identifiers to elements. Create some css for them. <span>&#10003; Done</span>
