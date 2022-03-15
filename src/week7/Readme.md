@@ -145,7 +145,14 @@ export function countSmileys(arr: string[]) {
 
 3. [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 ```ts
-
+const formatTime = (sec: number) => (sec > 9 ? `${sec}` : `0${sec}`);
+export function humanReadable(seconds:number):string {
+  // TODO
+  const hh = Math.floor(seconds / 3600);
+  const mm = Math.floor(seconds / 60) % 60;
+  const ss = seconds % 60;
+   return [hh, mm, ss].map(formatTime).join(":");
+}
 ```
 
 4. [Base64 Encoding](https://www.codewars.com/kata/5270f22f862516c686000161)
