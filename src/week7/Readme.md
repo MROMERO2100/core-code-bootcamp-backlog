@@ -10,9 +10,9 @@
 
 ## Week challenges (Tuesday) 💻
 
-1. [Generics](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week7/Exercices/E1/desc/ED1W7.md) Using `Typescript`
+1. [Generics](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week7/Exercices/E1/desc/ED1W7.md) Using `Typescript`  <span>&#10003; Done</span>
 
-2. [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449/train/typescript)
+2. [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449/train/typescript)<span>&#10003; Done</span>
 ```ts
 export const encryptThis = (str: string): string => {
   // Your code goes here
@@ -29,7 +29,7 @@ export const encryptThis = (str: string): string => {
 }
 ```
 
-3. [Make the Deadfish Swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/typescript)
+3. [Make the Deadfish Swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/typescript)  <span>&#10003; Done</span>
 
 ## Week challenges (Wednesday) 💻
 
