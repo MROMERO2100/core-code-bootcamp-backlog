@@ -11,7 +11,24 @@
 ## Week challenges (Tuesday) 💻
 
 1. [Generics](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week7/Exercices/E1/desc/ED1W7.md) Using `Typescript`
+
 2. [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449/train/typescript)
+```ts
+export const encryptThis = (str: string): string => {
+  // Your code goes here
+    if (str.length <= 0) return ""
+    return str
+    .split(" ")
+    .map(e => {
+        let begin = e[0].charCodeAt(0).toString();
+        let last = e.length > 2 ? e[e.length - 1] : "";
+        let second = e.length > 2 ? e[1] : "";
+        let rest = e.length > 2 ? e.substring(2,e.length - 1 ) : e.substring(1);
+        return begin + last + rest + second; 
+    }).join(" ");
+}
+```
+
 3. [Make the Deadfish Swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/typescript)
 
 ## Week challenges (Wednesday) 💻
