@@ -1,0 +1,24 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "Week 6 - Week challenges (Tuesday) - Movies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Moises Romero",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "@types/uuid": "^8.3.4",
+    "enquirer": "^2.3.6",
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  }
+}
