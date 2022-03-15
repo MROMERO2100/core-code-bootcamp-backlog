@@ -30,6 +30,20 @@ export const encryptThis = (str: string): string => {
 ```
 
 3. [Make the Deadfish Swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/typescript)  <span>&#10003; Done</span>
+```ts
+/** return the output array and ignore all non-op characters */
+export function parse(data: string): number[] {
+let result:number[] = [];
+data.split('').reduce((total, current) => {
+    if (current === 'i') total++;
+    if (current === 'd') total--;
+    if (current === 's') total = Math.pow(total, 2);
+    if (current === 'o') result.push(total);
+    return total;
+    }, 0);
+return result;
+}
+```
 
 ## Week challenges (Wednesday) 💻
 
