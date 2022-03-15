@@ -26,9 +26,12 @@
 
 ## Week challenges (Tuesday) 💻
 
-1. [Movies](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week6/Exercices/E1/desc/ED1W6.md) Using `Typescript`
-2. [Readme](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week6/Exercices/E2/desc/ED2W6.md)
-3. [Interfaces](https://docs.microsoft.com/en-us/learn/modules/typescript-implement-interfaces/)
+1. [Movies](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week6/Exercices/E1/desc/ED1W6.md) Using `Typescript`  <span>&#10003; Done</span>
+- [Movies Project](./Movies/)
+
+2. [Readme](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week6/Exercices/E2/desc/ED2W6.md) <span>&#10003; Done</span>
+
+3. [Interfaces](https://docs.microsoft.com/en-us/learn/modules/typescript-implement-interfaces/)  <span>&#10003; Done</span>
 
 ## Week challenges (Wednesday) 💻
 
