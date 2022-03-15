@@ -51,13 +51,37 @@ return result;
 2. Read and follow [this](https://learntypescript.dev/04/l5-union)
 3. Read and follow [this](https://learntypescript.dev/04/l6-intersection)
 4. [Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071/train/typescript)
+```ts
+export const dashatize = (num: number) => {
+    return num.toString().
+    replace(/([13579])/g,'-$1-').
+    replace(/\-+/g,'-'). 
+    replace(/^\-/,''). 
+    replace(/\-$/,'');
+};
+```
 
 ## Week challenges (Thursday) 💻
 
 1. [Type Predicate](https://typescript-exercises.github.io/#exercise=4)
+```ts
+
+```
 2. [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/typescript)
+```ts
+
+```
+
 3. [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
+```ts
+
+```
+
 4. [Base64 Encoding](https://www.codewars.com/kata/5270f22f862516c686000161)
+```ts
+
+```
+
 5. ✨Complete your 4th Core Challenge, the [Scrum Essentials Certification](https://university.scrumnetwork.com/offers/C5fmudK2/checkout?coupon_code=ESSENTIALS2022).
 
 ## Week links 🔗
