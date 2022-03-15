@@ -157,7 +157,15 @@ export function humanReadable(seconds:number):string {
 
 4. [Base64 Encoding](https://www.codewars.com/kata/5270f22f862516c686000161)
 ```ts
+export function toBase64(str: string): string {
+  // Encode this string to Base64
+  return new Buffer(str).toString('base64');
+}
 
+export function fromBase64(str: string): string {
+  // Decode this string from Base64
+   return new Buffer(str, 'base64').toString('ascii');
+}
 ```
 
 5. ✨Complete your 4th Core Challenge, the [Scrum Essentials Certification](https://university.scrumnetwork.com/offers/C5fmudK2/checkout?coupon_code=ESSENTIALS2022).
