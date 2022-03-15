@@ -137,7 +137,10 @@ persons.filter(isUser).forEach(logPerson);
 ```
 2. [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/typescript)
 ```ts
-
+//return the total number of smiling faces in the array
+export function countSmileys(arr: string[]) {
+ return arr.filter(e => /(:|;){1}(-|~){0,1}(\)|D){1}/.test(e)).length;
+}
 ```
 
 3. [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
