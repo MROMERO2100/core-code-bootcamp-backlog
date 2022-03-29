@@ -6,7 +6,9 @@
 
 ## Week challenges (Monday) 💻
 
-1. [TicTacToe](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week7/Exercices/E0/desc/ED0W7.md) Using `Typescript`
+1. [TicTacToe](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week7/Exercices/E0/desc/ED0W7.md) Using `Typescript` <span>&#10003; Done</span>
+- [Menu Project](./TicTacToe/)
+
 
 ## Week challenges (Tuesday) 💻
 
