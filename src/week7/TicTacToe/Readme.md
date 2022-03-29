@@ -65,3 +65,7 @@ The main class is simple, in the start method you should have a friendly-menu to
 1. Start game: This would call the startGame option in the TicTacToe class (Remember that you need an instance in order to make that call 😉)
 2. Show last game: This would calle the showHistory option in the TicTacToe class (Remember that you need an instance in order to make that call 😉)
 3. Exit: This option should exit the program
+
+[BACK](https://github.com/MROMERO2100/core-code-bootcamp-backlog/blob/main/src/week7/Readme.md)
+ 
+ [HOME](https://github.com/MROMERO2100/core-code-bootcamp-backlog)
